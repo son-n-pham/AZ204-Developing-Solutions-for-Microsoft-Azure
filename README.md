@@ -5,7 +5,7 @@
 Virtual Machine can be deployed by:
 - Portal
 - Azure CLI
-- ARM (Azure Resource Management)
+- ARM (Azure Resource Manager)
 
 Secure and manage:
 - Prevent intruder by hardening your network defenses
