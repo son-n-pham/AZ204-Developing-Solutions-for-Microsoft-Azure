@@ -30,8 +30,7 @@ ARM templates: Preconfigured scrips used to deploy single VM or whole environmen
 
 ARM role in handling Azure requests:
 
-<img src="https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/media/overview/consistent-management-layer.png" alt="Resource Manager request model"/>![image](https://user-images.githubusercontent.com/79841341/147547891-ef8a9cc1-bbc5-40f7-8162-4a59da91a06f.png)
-
+<img src="https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/media/overview/consistent-management-layer.png" alt="Resource Manager request model"/>
 
 ARM overview:
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview
