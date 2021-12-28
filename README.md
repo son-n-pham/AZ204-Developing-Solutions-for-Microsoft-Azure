@@ -2,7 +2,7 @@
 
 ## Azure Compute
 
-Virtual Machine can be deployed by:
+### Virtual Machine can be deployed by:
 - Portal
 - PowerShell
 - Azure CLI
@@ -23,7 +23,7 @@ In critical applications, ensuring data always available is critical. This can b
 - Backup data regularly
 - Build with an expectation of failure
 
-ARM templates: Preconfigured scrips used to deploy single VM or whole environment
+### ARM templates: Preconfigured scrips used to deploy single VM or whole environment
 - The template is in JSON
 - The template can be a single file of multple "modularized" templates.
 - The template can be deployed via: Azure portal, CLI, PowerShell, GitHub, Cloud Shell, REST API
@@ -38,6 +38,10 @@ https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overvie
 Understand scope:
 
 <img src="https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/media/overview/scope-levels.png" alt="Management levels"/>![image](https://user-images.githubusercontent.com/79841341/147548057-3fe62ccf-d9f2-42ea-b698-eeab28007498.png)
+
+### Web Apps
+
+![image](https://user-images.githubusercontent.com/79841341/147580223-ca361545-cb31-4768-aa4c-5a316bd7a101.png)
 
 
 
