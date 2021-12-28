@@ -4,6 +4,7 @@
 
 Virtual Machine can be deployed by:
 - Portal
+- PowerShell
 - Azure CLI
 - ARM (Azure Resource Manager)
 
@@ -21,3 +22,8 @@ In critical applications, ensuring data always available is critical. This can b
 - Utilize virtual machine scale sets
 - Backup data regularly
 - Build with an expectation of failure
+
+ARM templates: Preconfigured scrips used to deploy single VM or whole environment
+- The template is in JSON
+- The template can be a single file of multple "modularized" templates.
+- The template can be deployed via: Azure portal, CLI, PowerShell, GitHub, Cloud Shell, REST API
