@@ -37,7 +37,7 @@ https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overvie
 
 Understand scope:
 
-<img src="https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/media/overview/scope-levels.png" alt="Management levels"/>![image](https://user-images.githubusercontent.com/79841341/147548057-3fe62ccf-d9f2-42ea-b698-eeab28007498.png)
+<img src="https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/media/overview/scope-levels.png" alt="Management levels"/>
 
 ### Web Apps
 
