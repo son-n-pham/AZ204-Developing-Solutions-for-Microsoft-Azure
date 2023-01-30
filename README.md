@@ -1,5 +1,8 @@
 # AZ204-Developing-Solutions-for-Microsoft-Azure
 
+Link to Microsoft Learn:
+https://learn.microsoft.com/en-au/training/courses/AZ-204T00
+
 ## Azure Compute
 
 ### Virtual Machine can be deployed by:
